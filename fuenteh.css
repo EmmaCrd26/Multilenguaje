@@ -1,0 +1,25 @@
+
+body{
+background-color: #313D52;
+}
+
+body > h1{
+font-family: "Bahnschrift Light";
+color: orange;
+
+}
+
+body > h2{
+font-family: "Bahnschrift Light";
+color: orange;
+}
+
+body > h3{
+font-family: "Bahnschrift Light";
+color: orange;
+}
+body > h4{
+font-family: "Bahnschrift Light";
+color: white;
+}
+
